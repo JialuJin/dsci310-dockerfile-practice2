@@ -25,4 +25,4 @@ jobs:
 	
     - name: Docker push
       run: docker push jialujin/dsci310-dockerfile-practice2:latest
-
+      
